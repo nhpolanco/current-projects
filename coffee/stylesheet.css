@@ -1,0 +1,29 @@
+a.button {
+ padding:15px 35px 15px 35px;
+ border: 4px solid #345AB0;
+ color: #444;
+ text-decoration: none;
+ font-size:18px;
+}
+
+a.botton:hover{ 
+   
+}
+
+h3.subtitle{
+  font-family: Verdana;
+  font: 24px;
+  margin: 0px 0px 0px 100px;
+}
+
+p,h1 {
+	text-align: center;
+}
+
+img {
+ margin-left: auto;
+ margin-right: auto;
+ width:125 px;
+ display: block;
+
+}

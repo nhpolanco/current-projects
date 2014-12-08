@@ -1,0 +1,58 @@
+body {
+	margin: 0px;
+}
+
+.top {
+	background-color: #AD4A4D;
+	opacity: .65;
+	width: 100%;
+	float: right;
+	height:40px;
+}
+
+.topNav {
+	list-style-type: none;
+	
+}
+
+.topNav a {
+	text-decoration: none;
+	color:#C6D2D7;
+	width:60px;
+	display: block;
+	float:left;
+	margin-left: 10px;
+
+}
+
+.topNav a:hover {
+	color:#758BA2;
+}
+
+.clearfix {
+	clear:both;
+}
+
+.myName {
+	font-color: white;
+	font-family: ;
+	text-align: left;
+	margin-left: 100px;
+}
+
+#headshot {
+	height:400px;
+	width:400px;	
+	border-radius: 100%;
+	display: block;
+	float: left;
+	margin:1%;
+
+}
+
+.block{
+    width:100%;
+
+
+}
+

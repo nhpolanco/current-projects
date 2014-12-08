@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> yup | oh yea</title>
+		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		
+		<script>
+				$(function() {
+					$("#sam").css("background-color", "blue");
+					$("#sam").click(function() {
+						$(this).css("background-color", "green");
+					});
+				});
+
+				$( "p" ).click(function() {
+			   	  $( this ).slideUp();
+				});
+		</script>
+
+	</head>
+	
+	<body>
+		<div id="sam">
+			<h1> Here is the header</h1>
+			<p style="display: none;"> some fun body text.</p>
+		</div>	
+	</body>
+
+</html>
